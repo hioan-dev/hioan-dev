@@ -14,14 +14,12 @@
     <img src="https://gpvc.arturio.dev/hioan-dev" />
 </p>
 
-![GitHub stats](https://github-readme-stats.vercel.app/api username=hioan-dev&theme=radical)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hioan-dev&layout=compact&theme=radical)](https://github.com/hioan-dev/github-readme-stats)
+![Halomoan's GitHub stats](https://github-readme-stats.vercel.app/api?username=hioan-dev&show_icons=true&theme=radical)
 
 
 ### Let's connect!
 <p>
-    <a href="https://bagusfe.id" target="blank"><img src="https://img.shields.io/badge/Website-https://bagusfe.com-green?" /></a>
-    <a href="https://linkedin.bagusfe.com" target="blank"><img src="https://img.shields.io/badge/Bagus_Frayoga-30302f?style=flat&logo=linkedin" /></a>
-    <a href="https://medium.com/@bagusfe" target="blank"><img src="https://img.shields.io/badge/Bagus_Frayoga-30302f?style=flat&logo=medium" /></a>
-    <a href="https://tw.bagusfe.com" target="blank"><img src="https://img.shields.io/badge/@bagusfe_-30302f?style=flat&logo=twitter" /></a>
-    <a href="https://www.paypal.me/gewdfe" target="blank"><img src="https://ionicabizau.github.io/badges/paypal.svg" /></a>
+    <a href="https://www.linkedin.com/in/halomoan-tech/" target="blank"><img src="https://img.shields.io/badge/Halomoan-30302f?style=flat&logo=linkedin" /></a>
+    <a href="https://tw.halomoan.com" target="blank"><img src="https://img.shields.io/badge/@oan_hihi-30302f?style=flat&logo=twitter" /></a>
 </p>

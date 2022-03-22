@@ -14,7 +14,7 @@
     <img src="https://gpvc.arturio.dev/hioan-dev" />
 </p>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=dracula)](https://github.com/hioan-dev/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&margin-h=12&margin-w=12&theme=dracula)](https://github.com/hioan-dev/github-profile-trophy)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hioan-dev&layout=compact&theme=radical)](https://github.com/hioan-dev/github-readme-stats)
 ![Halomoan's GitHub stats](https://github-readme-stats.vercel.app/api?username=hioan-dev&show_icons=true&theme=radical)

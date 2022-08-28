@@ -1,6 +1,6 @@
 ### Hi there , I'm Halomoan Nababan👋
 
-- 🎓️ I am currently studying at Universitas Methodist Indonesia, majoring in informatics engineering
+- 🎓️ I am currently studying at University Methodist of Indonesia, majoring in informatics engineering
 - 📚️ I’m currently learning Laravel, React.js, Javascript, Go and python
 - 👯 I’m looking to collaborate on Project Open Source, Freelance, Part Time
 - 💬 Ask me about Front End Development

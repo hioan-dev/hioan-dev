@@ -3,7 +3,7 @@
 - 🎓️ I am currently studying at Universitas Methodist Indonesia, majoring in informatics engineering
 - 📚️ I’m currently learning Laravel, React.js, Nodejs, Go and python
 - 👯 I’m looking to collaborate on Project Open Source, Freelance, Part Time
-- 💬 Ask me about Front End Development
+- 💬 Ask me about Fullstack Development
 - 📧 How to reach me: halomoan.nbnz@gmail.com
 
 ### Tools :

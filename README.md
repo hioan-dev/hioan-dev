@@ -18,7 +18,7 @@
 ![git](https://img.shields.io/static/v1?logo=git&label=&message=git&color=36465D&logoColor=AAA&style=flat-square)
 
 
-**I'm Halomoan Nababan** _CEO - FOUNDER PATURE NUSANTARA_.
+**I'm Halomoan Nababan** _CO - FOUNDER PATURE NUSANTARA_.
 </br>
 I love building applications & discussing new product ideas.  I’m looking to collaborate on Project Open Source, Freelance, Part Time. Reach out to me on  halomoan.nbnz@gmail.com if you'd like to talk ✌️
 
